@@ -1,6 +1,8 @@
 runat
 =====
 
+Note: `runat` is obsolete. It is recommended to use [`waituntil`](https://github.com/remino/waituntil) instead, which works similarly to `sleep`.
+
 ```
 Usage: runat [options] start_time command
 
